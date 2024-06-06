@@ -1,0 +1,1 @@
+This repository contains all the notebooks used to accomplish my 3 months internship project on model Evaluation, Data analysis, Model Backtesting and modelling. the dataset remains the property of the company and it may be shared upon official approval from the company. 
